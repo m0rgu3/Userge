@@ -50,7 +50,7 @@
 
 ## Example Plugin 🤨
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dacadcbabdb74de3903ddae25dc95375)](https://app.codacy.com/gh/UsergeTeam/Userge?utm_source=github.com&utm_medium=referral&utm_content=UsergeTeam/Userge&utm_campaign=Badge_Grade_Dashboard) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/UsergeTeam/Userge/?ref=repository-badge)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9ff2867320b049b99a4a77285bb03cc4)](https://www.codacy.com/gh/UsergeTeam/Userge?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=UsergeTeam/Userge&amp;utm_campaign=Badge_Grade) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/UsergeTeam/Userge/?ref=repository-badge)
 
 ```python
 from userge import userge, Message
